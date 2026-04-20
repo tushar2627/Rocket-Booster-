@@ -68,6 +68,57 @@ Crash into obstacles and restart — rewarding careful play.
 
 ---
 
+<p align="center">
+  <img src="https://github.com/tushar2627/Rocket-Booster-/blob/main/RB%202.png" width="800"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/tushar2627/Rocket-Booster-/blob/main/RB%203.png" width="800"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/tushar2627/Rocket-Booster-/blob/main/RB%204.png" width="800"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/tushar2627/Rocket-Booster-/blob/main/RB%205.png" width="800"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/tushar2627/Rocket-Booster-/blob/main/RB%206.png" width="800"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/tushar2627/Rocket-Booster-/blob/main/RB%207.png" width="800"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/tushar2627/Rocket-Booster-/blob/main/RB%208.png" width="800"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/tushar2627/Rocket-Booster-/blob/main/RB%209.png" width="800"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/tushar2627/Rocket-Booster-/blob/main/RB%210.png" width="800"/>
+</p>
 ## 🚀 How to Run
 
 1. Clone or download the repository  
