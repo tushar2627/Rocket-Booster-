@@ -117,8 +117,23 @@ Crash into obstacles and restart — rewarding careful play.
 ---
 
 <p align="center">
-  <img src="https://github.com/tushar2627/Rocket-Booster-/blob/main/RB%210.png" width="800"/>
+  <img src="https://github.com/tushar2627/Rocket-Booster-/blob/main/RB%2010.png" width="800"/>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/tushar2627/Rocket-Booster-/blob/main/RB%2010.png" width="800"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/tushar2627/Rocket-Booster-/blob/main/RB%2010.png" width="800"/>
+</p>
+
+---
+
 ## 🚀 How to Run
 
 1. Clone or download the repository  
