@@ -136,7 +136,7 @@ Crash into obstacles and restart — rewarding careful play.
 
 ## 📥 Download & Play
 
-- [Download Rocket Booster (ZIP)](https://github.com/tushar2627/Rocket-Booster/releases/tag/v1.0)
+- [Download Rocket Booster (ZIP)](https://github.com/tushar2627/Rocket-Booster-/releases/tag/v1.0)
 
 ### 🖥️ How to Run
 
