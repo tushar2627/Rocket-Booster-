@@ -63,7 +63,7 @@ Crash into obstacles and restart — rewarding careful play.
 ### 🚀 Level Gameplay
 
 <p align="center">
-  <img src="https://github.com/tushar2627/Rocket-Booster/blob/main/RB%201.png" width="800"/>
+  <img src="https://github.com/tushar2627/Rocket-Booster-/blob/main/RB%201.png" width="800"/>
 </p>
 
 ---
