@@ -134,12 +134,18 @@ Crash into obstacles and restart — rewarding careful play.
 
 ---
 
-## 🚀 How to Run
+## 📥 Download & Play
 
-1. Clone or download the repository  
-2. Open in **Unity (2021.3 LTS or newer)**  
-3. Open the main scene from the `Scenes` folder  
-4. Press **Play**  
+- [Download Rocket Booster (ZIP)](https://github.com/tushar2627/Rocket-Booster/releases/tag/v1.0)
+
+### 🖥️ How to Run
+
+1. Download the ZIP file  
+2. Extract the folder  
+3. Open the folder  
+4. Run **RocketBooster.exe**
+
+> ⚠️ Keep all files in the same folder for the game to work properly.
 
 ---
 
